@@ -163,7 +163,7 @@ if __name__ == "__main__":
         essay = tokenize_essay(essay)
         bio_tokens = to_bio(essay)
         print(bio_tokens)
-        bio_output += bio_tokens + '\n__END_ESSAY__\n'
+        bio_output += bio_tokens + '\n__END_ESSAY__\tO\n'
 
     with open(args.output_path, 'w') as file:
         file.write(''.join(bio_output))

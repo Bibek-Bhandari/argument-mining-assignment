@@ -8,9 +8,9 @@ def evaluation(path_to_ground_truth_bio, path_to_pred_bio):
 
     gt_bio   = [x.split('\t') for x in open(path_to_ground_truth_bio).readlines() if x !='\n']
     pred_bio = [x.split('\t') for x in open(path_to_ground_truth_bio).readlines() if x !='\n']
-   
 
     assert len(gt_bio) == len(pred_bio), 'Number of tokens in the prediction file is different than the ground truth.'
+
 
     #F1-score overall tokens..
     _, gt_y   = zip(*gt_bio)

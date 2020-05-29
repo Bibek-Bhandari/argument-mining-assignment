@@ -512,7 +512,7 @@ dead	I-MAJOR-CLAIM
 penalty	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Computers	O
 -	O
 use	O
@@ -974,7 +974,7 @@ question	O
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Why	O
 are	O
 groups	O
@@ -1462,7 +1462,7 @@ different	I-MAJOR-CLAIM
 backgrounds	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Non	O
 academic	O
 subjects	O
@@ -1833,7 +1833,7 @@ these	I-MAJOR-CLAIM
 subjects	I-MAJOR-CLAIM
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Friendship	O
 is	O
 more	O
@@ -2149,7 +2149,7 @@ life	I-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Financial	O
 support	O
 for	O
@@ -2568,7 +2568,7 @@ positive	I-CLAIM
 way	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 School	O
 memories	O
 __END_PARAGRAPH__	O
@@ -2881,7 +2881,7 @@ childhood	O
 thoroughly	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Do	O
 you	O
 agree	O
@@ -3258,7 +3258,7 @@ the	I-MAJOR-CLAIM
 earth	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Technology	O
 makes	O
 people	O
@@ -3668,7 +3668,7 @@ are	I-MAJOR-CLAIM
 significant	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Keep	O
 trying	O
 and	O
@@ -4074,7 +4074,7 @@ his	I-CLAIM
 life	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Advertisements	O
 affects	O
 on	O
@@ -4404,7 +4404,7 @@ powerful	I-MAJOR-CLAIM
 advertisements	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Should	O
 the	O
 Government	O
@@ -4758,7 +4758,7 @@ the	I-CLAIM
 government	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Getting	O
 opinions	O
 from	O
@@ -5167,7 +5167,7 @@ their	I-MAJOR-CLAIM
 teachers	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Traditional	O
 skills	O
 and	O
@@ -5469,7 +5469,7 @@ last	I-MAJOR-CLAIM
 forever	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 E-mail	O
 or	O
 Voice	O
@@ -5907,7 +5907,7 @@ persuasive	O
 expression	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Early	O
 retirement	O
 for	O
@@ -6237,7 +6237,7 @@ accordingly	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 The	O
 Internet	O
 is	O
@@ -6700,7 +6700,7 @@ conscious	O
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Teachers	O
 lesson	O
 vs	O
@@ -7062,7 +7062,7 @@ learning	O
 outcome	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Detailed	O
 description	O
 of	O
@@ -7396,7 +7396,7 @@ of	I-CLAIM
 crimes	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Working	O
 at	O
 home	O
@@ -7746,7 +7746,7 @@ at	I-CLAIM
 home	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 The	O
 best	O
 way	O
@@ -8052,7 +8052,7 @@ also	I-MAJOR-CLAIM
 mentally	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 The	O
 precondition	O
 of	O
@@ -8505,7 +8505,7 @@ dynamic	I-MAJOR-CLAIM
 way	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Children	O
 engagement	O
 in	O
@@ -8876,7 +8876,7 @@ labour	O
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 New	O
 building	O
 construction	O
@@ -9214,7 +9214,7 @@ from	I-MAJOR-CLAIM
 government	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Technology	O
 helps	O
 student	O
@@ -9509,7 +9509,7 @@ better	O
 future	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Jury	O
 must	O
 have	O
@@ -9805,7 +9805,7 @@ actions	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Learning	O
 a	O
 foreign	O
@@ -10131,7 +10131,7 @@ study	I-MAJOR-CLAIM
 language	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Using	O
 a	O
 computer	O
@@ -10489,7 +10489,7 @@ get	O
 misled	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Attending	O
 boys	O
 and	O
@@ -10880,7 +10880,7 @@ work	I-CLAIM
 together	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Some	O
 important	O
 characteristics	O
@@ -11330,7 +11330,7 @@ a	I-PREMISE
 blessing	I-PREMISE
 .	I-PREMISE
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 The	O
 advertising	O
 is	O
@@ -11779,7 +11779,7 @@ own	O
 lifestyles	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Classmates	O
 '	O
 impacts	O
@@ -12085,7 +12085,7 @@ at	I-CLAIM
 school	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Improved	O
 medical	O
 care	O
@@ -12425,7 +12425,7 @@ are	I-CLAIM
 old	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Spending	O
 time	O
 with	O
@@ -12812,7 +12812,7 @@ one	I-MAJOR-CLAIM
 life	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 International	O
 tourism	O
 is	O
@@ -13133,7 +13133,7 @@ near	O
 future	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 International	O
 tourism	O
 leads	O
@@ -13415,7 +13415,7 @@ different	I-MAJOR-CLAIM
 culture	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Can	O
 technology	O
 alone	O
@@ -13831,7 +13831,7 @@ life	O
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 The	O
 city	O
 which	O
@@ -14349,7 +14349,7 @@ old	I-MAJOR-CLAIM
 buildings	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Some	O
 people	O
 believe	O
@@ -14692,7 +14692,7 @@ our	O
 constitution	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 More	O
 important	O
 to	O
@@ -15137,7 +15137,7 @@ my	O
 choice	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Should	O
 government	O
 control	O
@@ -15426,7 +15426,7 @@ control	O
 someday	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Life	O
 in	O
 a	O
@@ -15719,7 +15719,7 @@ for	O
 sure	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 The	O
 ability	O
 to	O
@@ -16093,7 +16093,7 @@ own	I-CLAIM
 benefits	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Studies	O
 abroad	O
 and	O
@@ -16435,7 +16435,7 @@ of	O
 life	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 It	O
 is	O
 better	O
@@ -16731,7 +16731,7 @@ best	I-MAJOR-CLAIM
 way	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Should	O
 we	O
 require	O
@@ -17180,7 +17180,7 @@ his/her	I-CLAIM
 life	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 The	O
 car	O
 use	O
@@ -17675,7 +17675,7 @@ twenty	I-MAJOR-CLAIM
 years	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Computers	O
 replace	O
 human	O
@@ -17980,7 +17980,7 @@ replaced	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Nowadays	O
 ,	O
 spending	O
@@ -18315,7 +18315,7 @@ has	O
 altered	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Distance	O
 learning	O
 and	O
@@ -18669,7 +18669,7 @@ in	O
 schools	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Should	O
 all	O
 the	O
@@ -18976,7 +18976,7 @@ more	O
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Students	O
 should	O
 be	O
@@ -19353,7 +19353,7 @@ their	I-CLAIM
 students	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Communicating	O
 via	O
 e-mail	O
@@ -19697,7 +19697,7 @@ voice	I-MAJOR-CLAIM
 mail	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Living	O
 with	O
 a	O
@@ -20205,7 +20205,7 @@ their	O
 lives	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 One	O
 or	O
 two	O
@@ -20608,7 +20608,7 @@ say	O
 NO	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Living	O
 in	O
 a	O
@@ -21083,7 +21083,7 @@ and	O
 plausible	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Paying	O
 more	O
 money	O
@@ -21420,7 +21420,7 @@ bosses	I-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Where	O
 to	O
 learn	O
@@ -21809,7 +21809,7 @@ new	I-MAJOR-CLAIM
 language	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Most	O
 difficult	O
 experiences	O
@@ -22136,7 +22136,7 @@ the	O
 time	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Replacing	O
 old	O
 buildings	O
@@ -22429,7 +22429,7 @@ previous	I-CLAIM
 ancestors	I-CLAIM
 .	I-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Public	O
 transportation	O
 keeps	O
@@ -22794,7 +22794,7 @@ to	O
 use	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Roles	O
 of	O
 international	O
@@ -23211,7 +23211,7 @@ future	O
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Apartments	O
 vs	O
 dormitories	O
@@ -23651,7 +23651,7 @@ a	I-MAJOR-CLAIM
 dormitory	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Living	O
 and	O
 studying	O
@@ -23947,7 +23947,7 @@ life	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Advantages	O
 and	O
 disadvantages	O
@@ -24250,7 +24250,7 @@ diversity	I-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 A	O
 more	O
 convenient	O
@@ -24718,7 +24718,7 @@ live	I-MAJOR-CLAIM
 in	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Protect	O
 animals	O
 or	O
@@ -25027,7 +25027,7 @@ species	I-MAJOR-CLAIM
 extinction	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 The	O
 opportunity	O
 to	O
@@ -25403,7 +25403,7 @@ quite	I-MAJOR-CLAIM
 easily	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Learning	O
 facts	O
 has	O
@@ -25756,7 +25756,7 @@ etc	I-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Do	O
 you	O
 agree	O
@@ -26081,7 +26081,7 @@ next	I-MAJOR-CLAIM
 generation	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Follow	O
 the	O
 New	O
@@ -26525,7 +26525,7 @@ new	O
 culture	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Some	O
 students	O
 prefer	O
@@ -26827,7 +26827,7 @@ with	O
 group	O
 .	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Zoos	O
 should	O
 be	O
@@ -27208,7 +27208,7 @@ better	O
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Paying	O
 taxes	O
 is	O
@@ -27573,7 +27573,7 @@ ordered	I-MAJOR-CLAIM
 way	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Learning	O
 to	O
 be	O
@@ -27968,7 +27968,7 @@ better	I-MAJOR-CLAIM
 choice	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Advertising	O
 -	O
 positive	O
@@ -28328,7 +28328,7 @@ supported	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 We	O
 can	O
 not	O
@@ -28698,7 +28698,7 @@ every	I-MAJOR-CLAIM
 subject	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 There	O
 have	O
 been	O
@@ -28968,7 +28968,7 @@ developments	I-MAJOR-CLAIM
 properly	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 A	O
 single	O
 international	O
@@ -29389,7 +29389,7 @@ heritage	I-CLAIM
 __END_PARAGRAPH__	O
 	O
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
 Foreign	O
 language	O
 instruction	O
@@ -29749,4 +29749,4 @@ among	I-MAJOR-CLAIM
 children	I-MAJOR-CLAIM
 .	I-MAJOR-CLAIM
 __END_PARAGRAPH__	O
-__END_ESSAY__
+__END_ESSAY__	O
